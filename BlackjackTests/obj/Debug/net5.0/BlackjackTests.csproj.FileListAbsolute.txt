@@ -1,0 +1,5 @@
+C:\Users\matth\Documents\Code\blackjack-project\BlackjackTests\obj\Debug\net5.0\BlackjackTests.csprojAssemblyReference.cache
+C:\Users\matth\Documents\Code\blackjack-project\BlackjackTests\obj\Debug\net5.0\BlackjackTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\Documents\Code\blackjack-project\BlackjackTests\obj\Debug\net5.0\BlackjackTests.AssemblyInfoInputs.cache
+C:\Users\matth\Documents\Code\blackjack-project\BlackjackTests\obj\Debug\net5.0\BlackjackTests.AssemblyInfo.cs
+C:\Users\matth\Documents\Code\blackjack-project\BlackjackTests\obj\Debug\net5.0\BlackjackTests.csproj.CoreCompileInputs.cache
