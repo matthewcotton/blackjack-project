@@ -6,13 +6,6 @@ namespace BlackjackTests
   public class TableTests
   {
     [Fact]
-    public void CheckTableHasId()
-    {
-      Table table = new Table(3, 15);
-      Assert.NotNull(table.tableId);
-    }
-
-    [Fact]
     public void CheckDefaultMinBet()
     {
       Table table = new Table(3);

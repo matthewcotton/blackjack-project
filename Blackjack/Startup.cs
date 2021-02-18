@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using MongoDB.Driver;
 using Blackjack.Models;
 using Blackjack.Services;
 
@@ -28,7 +29,13 @@ namespace Blackjack
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddSingleton<JsonTableService>();
+            // services.AddSingleton<JsonTableService>();
+
+            services.AddSingleton<IMongoClient, MongoClient>(s =>
+            {
+                var uri = s.GetRequiredService<IConfiguration>()["MongoUri"];
+                return new MongoClient(uri);
+            });
 
             services.AddControllers();
             services.AddSwaggerGen(c =>

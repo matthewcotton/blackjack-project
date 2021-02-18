@@ -58,3 +58,12 @@ C:\Users\matth\Documents\Code\blackjack-project\Blackjack\obj\Debug\net5.0\scope
 C:\Users\matth\Documents\Code\blackjack-project\Blackjack\obj\Debug\net5.0\Blackjack.RazorTargetAssemblyInfo.cache
 C:\Users\matth\Documents\Code\blackjack-project\Blackjack\obj\Debug\net5.0\Blackjack.csproj.CopyComplete
 C:\Users\matth\Documents\Code\blackjack-project\Blackjack\obj\Debug\net5.0\Blackjack.genruntimeconfig.cache
+C:\Users\matth\Documents\Code\blackjack-project\Blackjack\bin\Debug\net5.0\DnsClient.dll
+C:\Users\matth\Documents\Code\blackjack-project\Blackjack\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\matth\Documents\Code\blackjack-project\Blackjack\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\matth\Documents\Code\blackjack-project\Blackjack\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\matth\Documents\Code\blackjack-project\Blackjack\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\matth\Documents\Code\blackjack-project\Blackjack\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\matth\Documents\Code\blackjack-project\Blackjack\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\matth\Documents\Code\blackjack-project\Blackjack\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\matth\Documents\Code\blackjack-project\Blackjack\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
