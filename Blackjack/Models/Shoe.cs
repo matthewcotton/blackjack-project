@@ -9,10 +9,11 @@ namespace Blackjack.Models
   public class Shoe
   {
     private Deck deck = new Deck();
-    public List<Card> shoeOfCards = new List<Card>();
+    public List<Card> shoeOfCards { get; set; }
 
     public Shoe(int numOfDecks = 4)
     {
+      shoeOfCards = new List<Card>();
       for (int i = 0; i < numOfDecks; i++)
       {
         shoeOfCards.AddRange(deck.deckOfCards);

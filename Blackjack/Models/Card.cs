@@ -3,9 +3,9 @@ namespace Blackjack.Models
 {
   public class Card
   {
-    public char suit { get; }
+    public char suit { get; set; }
 
-    public string rank { get; }
+    public string rank { get; set; }
 
     public bool dealt { get; set; }
 
