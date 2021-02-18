@@ -11,10 +11,10 @@ namespace Blackjack.Models
     public string Id { get; set; }
 
     [BsonElement("shoe")]
-    public Shoe shoe { get; }
+    public Shoe shoe { get; set; }
 
     [BsonElement("minBet")]
-    public decimal minBet { get; }
+    public decimal minBet { get; set; }
 
     public Table(int numOfDecks, decimal minBetIn = 10)
     {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\matth\\Documents\\Code\\blackjack-project\\Blackjack\\Blackjack.csproj": {}
+    "C:\\Users\\matth\\Documents\\Code\\blackjack-project\\Blackjack\\Blackjack.csproj": {}
   },
   "projects": {
-    "c:\\Users\\matth\\Documents\\Code\\blackjack-project\\Blackjack\\Blackjack.csproj": {
+    "C:\\Users\\matth\\Documents\\Code\\blackjack-project\\Blackjack\\Blackjack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\matth\\Documents\\Code\\blackjack-project\\Blackjack\\Blackjack.csproj",
+        "projectUniqueName": "C:\\Users\\matth\\Documents\\Code\\blackjack-project\\Blackjack\\Blackjack.csproj",
         "projectName": "Blackjack",
-        "projectPath": "c:\\Users\\matth\\Documents\\Code\\blackjack-project\\Blackjack\\Blackjack.csproj",
+        "projectPath": "C:\\Users\\matth\\Documents\\Code\\blackjack-project\\Blackjack\\Blackjack.csproj",
         "packagesPath": "C:\\Users\\matth\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\matth\\Documents\\Code\\blackjack-project\\Blackjack\\obj\\",
+        "outputPath": "C:\\Users\\matth\\Documents\\Code\\blackjack-project\\Blackjack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matth\\AppData\\Roaming\\NuGet\\NuGet.Config"
